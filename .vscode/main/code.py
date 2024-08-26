@@ -1,1 +1,1 @@
-print(__name__)
+print("hellooooooo wolrd")
